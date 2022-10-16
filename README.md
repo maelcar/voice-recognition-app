@@ -10,13 +10,13 @@ Voice Recognition App for people with reduced mobility. Technologies: HTML, CSS,
 * [Portfolio web]()
 * [Linkedin]()
 
-## View app online
-[VoiceRecognition]()
+## View App online
+[VoiceRecognition](https://maelcar.github.io/voice-recognition-app/)
 
 
 
 ## Install
-This app doesn't require installation, click on index.html
+This App doesn't require installation, click on index.html
 
 
 ## Hire
